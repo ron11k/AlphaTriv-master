@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AlphaTriv</string>
+    <string name="rb0">Vel et omnes vivendum facilisi, eu vidit populo per, ne everti malorum voluptatibus ius. No ius graece ridens pertinacia. Nam graeci percipitur an, ea qui quod voluptua dissentias. An pro utroque partiendo ocurreret, corpora percipitur ei eos, ei fugit malorum nam. Id duo omnes saepe evertitur, his placerat recusabo laboramus at. Mei sanctus dissentias in, id vim fugit eripuit consequat.</string>
+    <string name="rb1">Vel et omnes vivendum facilisi, eu vidit populo per</string>
+    <string name="rb2">Vivendum facilisi</string>
+    <string name="text_view">Lorem ipsum dolor sit amet, possit petentium mnesarchum duo at, in aeterno molestiae elaboraret eum. Pri ei hinc audire deserunt, nec tollit postea id, ut pri veniam rationibus. Pri an ancillae vulputate, eu eam oporteat partiendo, id usu omittam sensibus prodesset. No scripta vivendo vix, in sit sonet timeam dolorum. Mollis delicata ius at, et est natum solet postulant.
+</string>
+
+    <string name="rb3">Pri ei hinc audire deserunt, nec tollit postea id, ut pri veniam rationibus.</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Let\'s do it!</string>
+
+
+    <string name="slide_alphatriv">AlphaTriv</string>
+    <string name="slide_alphatriv_hello">LET\'S WIN IT ALL!!!</string>
+
+
+    <string name="rules">JUST 3 RULES</string>
+    <string name="rules_1">(!) No Pickin\'! Once you exit the app, the trivia will be closed for 24 hours!</string>
+    <string name="rules_2">(!) One try. Sorry, once clicked on the button, the answer will be decided.</string>
+    <string name="rules_3">(!) Think Quick! Your time is limited!</string>
+
+
+</resources>
